@@ -1,15 +1,27 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Goshtasb Shahriari Mehr — Spatial AI, built end to end" src="./assets/hero-light.svg" width="100%">
-</picture>
+<a href="https://goshtasbsh.github.io/" aria-label="Open Goshtasb Shahriari Mehr's full portfolio">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-animated.webp">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-animated.webp">
+    <img alt="Animated introduction to Goshtasb Shahriari Mehr's spatial AI systems and engineering work" src="./assets/hero-light-animated.webp" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://goshtasbsh.github.io/"><strong>Portfolio</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://goshtasbsh.github.io/"><strong>Explore full portfolio →</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://goshtasbsh.github.io/assets/cv.pdf"><strong>CV</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/goshtasb-shahriari-mehr-1826bb130/"><strong>LinkedIn</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=Bruj7TQAAAAJ&hl=en"><strong>Google Scholar</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:g.shahriarimehr@ufl.edu"><strong>Email</strong></a>
+</p>
+
+<p align="center">
+  <sub>LIVE WORK</sub><br>
+  <a href="https://geochatbot-eight.vercel.app/app"><strong>GeoChatBot ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://goshtasbsh.github.io/Glean_add-in/"><strong>Local Glean ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://keystone-project-survey.vercel.app/static/index.html"><strong>KeyStone ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://fieldsurvey-alpha.vercel.app"><strong>FieldSurvey ↗</strong></a>
 </p>
 
 I am an **ML/AI engineer with a spatial systems background**. I build the full path from raw geographic evidence to a tested product: data pipelines, spatial computation, agent planning, retrieval, verification, APIs, and decision interfaces.
