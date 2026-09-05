@@ -98,9 +98,9 @@ I am most useful where **AI has to touch real data, real geography, and real ope
 - **Three peer-reviewed publications** spanning location-based recommender systems, point-of-interest discovery, and tourism-experience analysis. [Read the publication record →](https://goshtasbsh.github.io/#publications)
 - **Four degrees across spatial science, planning, and computer engineering**, including an M.Sc. in Computer Engineering from UF and a Ph.D. dissertation successfully defended in August 2026. [See the full path →](https://goshtasbsh.github.io/#education)
 
-## Let's work on systems that understand place
+## Contact
 
-I am interested in engineering roles where agentic AI, spatial data, simulation, and decision products meet—especially work that values rigorous evaluation and end-to-end ownership.
+I am open to engineering roles at the intersection of agentic AI, spatial data, simulation, and decision products.
 
 <p>
   <a href="mailto:g.shahriarimehr@ufl.edu"><strong>Start a conversation →</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
