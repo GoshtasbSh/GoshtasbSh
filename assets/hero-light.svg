@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Goshtasb Shahriari Mehr — Spatial AI, built end to end</title>
+  <desc id="desc">A light cinematic portfolio banner with a spatial contour field and a verified engineering pipeline.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f4ed"/><stop offset=".55" stop-color="#edf4f1"/><stop offset="1" stop-color="#eaf1f5"/></linearGradient>
+    <radialGradient id="glow" cx="78%" cy="28%" r="62%"><stop stop-color="#1a9f78" stop-opacity=".15"/><stop offset=".6" stop-color="#2788a8" stop-opacity=".04"/><stop offset="1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#172631" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="460" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="460" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="460" rx="24" fill="url(#glow)"/>
+  <g fill="none" stroke="#087b5c" stroke-opacity=".14"><path d="M690 29c81 49 84 126 168 139 92 14 188-43 315 25"/><path d="M662 53c88 44 99 130 190 145 95 16 202-40 332 22"/><path d="M646 83c80 28 110 121 206 143 109 25 208-25 332 29"/><path d="M654 118c76 18 110 105 198 134 116 39 216-7 336 44"/><path d="M680 153c72 10 105 86 178 117 119 50 229 19 324 62"/><path d="M716 188c62 7 89 65 150 97 103 54 206 45 298 82"/></g>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="72" y="70" fill="#087b5c" font-size="13" font-weight="650" letter-spacing="2.2">GOSHTASB SHAHRIARI MEHR  /  ENGINEERING PROFILE</text>
+    <text x="70" y="165" fill="#14232d" font-size="68" font-weight="620" letter-spacing="-3.4">Spatial AI,</text>
+    <text x="70" y="232" fill="#087b5c" font-size="68" font-weight="360" letter-spacing="-3.4">built end to end.</text>
+    <text x="74" y="278" fill="#506571" font-size="18" font-weight="440">LLM agents · geospatial platforms · simulation systems</text>
+    <g transform="translate(72 332)">
+      <rect width="242" height="52" rx="12" fill="#ffffff" fill-opacity=".78" stroke="#172631" stroke-opacity=".15"/><circle cx="25" cy="26" r="5" fill="#087b5c"/><text x="42" y="23" fill="#172631" font-size="13" font-weight="650">DATA + SPATIAL ENGINE</text><text x="42" y="39" fill="#60727d" font-size="11">PostGIS · DuckDB · GeoPandas</text>
+      <path d="M250 26h35" stroke="#087b5c" stroke-opacity=".6"/><path d="m280 21 6 5-6 5" fill="none" stroke="#087b5c"/>
+      <rect x="294" width="242" height="52" rx="12" fill="#ffffff" fill-opacity=".78" stroke="#172631" stroke-opacity=".15"/><circle cx="319" cy="26" r="5" fill="#2788a8"/><text x="336" y="23" fill="#172631" font-size="13" font-weight="650">AGENT + RETRIEVAL</text><text x="336" y="39" fill="#60727d" font-size="11">Tool calling · RAG · verification</text>
+      <path d="M544 26h35" stroke="#087b5c" stroke-opacity=".6"/><path d="m574 21 6 5-6 5" fill="none" stroke="#087b5c"/>
+      <rect x="588" width="242" height="52" rx="12" fill="#ffffff" fill-opacity=".78" stroke="#172631" stroke-opacity=".15"/><circle cx="613" cy="26" r="5" fill="#d38a11"/><text x="630" y="23" fill="#172631" font-size="13" font-weight="650">DECISION INTERFACE</text><text x="630" y="39" fill="#60727d" font-size="11">Maps · dashboards · field systems</text>
+    </g>
+    <text x="1128" y="425" text-anchor="end" fill="#71828b" font-size="11" letter-spacing="1.5">GAINESVILLE, FL  ·  2026</text>
+  </g>
+</svg>
